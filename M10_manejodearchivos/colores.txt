@@ -1,0 +1,7 @@
+color rojo
+color verde
+color azul
+color negro
+color blanco
+color marron
+color celeste
